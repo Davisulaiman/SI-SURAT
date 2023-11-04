@@ -1,0 +1,3 @@
+# SI-SURAT
+
+Database adalah kumpulan data yang terorganisir yang memungkinkan penyimpanan, pengambilan, dan pengolahan informasi dengan efisien. CRUD adalah akronim dari Create, Read, Update, Delete yang merupakan empat operasi dasar yang digunakan untuk berinteraksi dengan data dalam database. Sistem informasi surat merupakan aplikasi yang dirancang untuk mengelola surat-menyurat dalam organisasi, menggunakan database untuk menyimpan surat dan CRUD sebagai metode untuk memanipulasi data tersebut, memastikan komunikasi tertulis dapat dilacak, diakses, dan dikelola dengan mudah dan terstruktur.
